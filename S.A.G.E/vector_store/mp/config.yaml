@@ -1,0 +1,6 @@
+Model name: models/embedding-001
+Chunk size: 2000
+Chunk overlap: 200
+Text Splitter: Recursive Character Text Splitter
+Text seperator: NoOK
+len function: len
